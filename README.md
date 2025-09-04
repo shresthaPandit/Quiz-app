@@ -124,9 +124,8 @@ src/
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://quickquiztest.netlify.app/) 
+[click to view live demo](https://quickquiztest.netlify.app/) 
 
-## 📱 Screenshots
 
 ### Home Page
 - Quiz configuration options
