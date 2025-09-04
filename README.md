@@ -124,7 +124,7 @@ src/
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-quiz-app.netlify.app) *(Replace with your actual deployment URL)*
+[View Live Demo](https://quickquiztest.netlify.app/) 
 
 ## 📱 Screenshots
 
@@ -308,9 +308,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Developer
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [ShresthaPandit](https://github.com/shresthaPandit)
+- LinkedIn:(https://www.linkedin.com/in/shrestha-pandit-24bba8263/)
+- Email: shresthapandit8@gmail.com
 
 ## 🙏 Acknowledgments
 
